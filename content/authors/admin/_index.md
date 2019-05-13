@@ -16,9 +16,9 @@ education:
     year: 2013
 email: "valentina.butto@gmail.com"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- cats
+- science
+-  dinosaurs
 name: Valentina Buttò
 organizations:
 - name: University of Quebec in Chicoutimi
