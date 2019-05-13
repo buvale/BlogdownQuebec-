@@ -5,23 +5,23 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Enviromental sciences 
+  - PhD in Enviromental sciences 
     institution: University of Quebec in Chicoutimi 
-    year: 2012
-  - course: MEng in Artificial Intelligence
+    year: 2017 -  
+  - course: MSc in Forestry and enviromental sciences
     institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
+    year: 2015
+  - course: BSc in Forestry and enviromental sciences
     institution: Massachusetts Institute of Technology
-    year: 2008
-email: "baubau"
+    year: 2013
+email: "valentina.butto@gmail.com"
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
 name: Valentina Buttò
 organizations:
-- name: Stanford University
+- name: University of Quebec in Chicoutimi
   url: ""
 role: Professor of Artificial Intelligence
 social:
