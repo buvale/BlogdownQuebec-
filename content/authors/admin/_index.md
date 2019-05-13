@@ -6,7 +6,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 education:
   courses:
   - course: PhD in Enviromental sciences 
-    institution: Stanford University
+    institution: University of Quebec in Chicoutimi 
     year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
