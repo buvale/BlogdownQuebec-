@@ -5,9 +5,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - PhD in Enviromental sciences 
-    institution: University of Quebec in Chicoutimi 
-    year: 2017 -  
+  - course: Pdd in Forestry and enviromental sciences
+    institution: Massachusetts Institute of Technology
+    year: 2017
   - course: MSc in Forestry and enviromental sciences
     institution: Massachusetts Institute of Technology
     year: 2015
